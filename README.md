@@ -4,4 +4,5 @@ This is my first attempt at literate programming using noweb. Documentation (inc
 Dependencies:
 - noweb (includes noweave and notangle)
 - LaTeX
+- cairo
 ```
